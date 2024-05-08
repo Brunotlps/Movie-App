@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title">Breaking Bad</string>
+    <string name="season_ep">S1:E1</string>
+    <string name="currentTime">52:00</string>
+    <string name="totalTime">58:20</string>
+</resources>
